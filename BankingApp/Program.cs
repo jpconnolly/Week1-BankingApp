@@ -79,7 +79,7 @@ void BuildBankingApp()
         }
     }
     else
-    {
+    { 
         // An invalid number has been selected. Advise the user accordingly
         Console.WriteLine("Please choose a valid menu option between 1-2");
     }
